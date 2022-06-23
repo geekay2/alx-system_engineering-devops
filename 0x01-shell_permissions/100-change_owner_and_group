@@ -1,2 +1,2 @@
-#!/bin/ban
-chown -vincent staff=olleh hello
+#!/bin/bash
+chown -h vincent:staff
